@@ -1,0 +1,67 @@
+ca.elinium.dishpal.composeApp-activity-ktx-1.9.0-0 /Users/mohammadabumaizer/.gradle/caches/transforms-3/0bbf6f4aefc0ff99da4c06fc3a6693ec/transformed/activity-ktx-1.9.0/res
+ca.elinium.dishpal.composeApp-lifecycle-runtime-2.6.2-1 /Users/mohammadabumaizer/.gradle/caches/transforms-3/153ef0a6a689ca66f899686c1b7aaf0c/transformed/lifecycle-runtime-2.6.2/res
+ca.elinium.dishpal.composeApp-savedstate-1.2.1-2 /Users/mohammadabumaizer/.gradle/caches/transforms-3/17a20dc17a6546ea4878d9a26bd162f9/transformed/savedstate-1.2.1/res
+ca.elinium.dishpal.composeApp-cardview-1.0.0-3 /Users/mohammadabumaizer/.gradle/caches/transforms-3/197ece2ec7474da8a4e669ee202b6374/transformed/cardview-1.0.0/res
+ca.elinium.dishpal.composeApp-material-release-4 /Users/mohammadabumaizer/.gradle/caches/transforms-3/1a7e8800a996846ccb8ff487db8d7362/transformed/material-release/res
+ca.elinium.dishpal.composeApp-transition-1.2.0-5 /Users/mohammadabumaizer/.gradle/caches/transforms-3/25fde5f01beb38582f8d46d9a90a44e5/transformed/transition-1.2.0/res
+ca.elinium.dishpal.composeApp-viewpager2-1.0.0-6 /Users/mohammadabumaizer/.gradle/caches/transforms-3/37355a28beb99cc1cd37bae563a04e37/transformed/viewpager2-1.0.0/res
+ca.elinium.dishpal.composeApp-foundation-layout-release-7 /Users/mohammadabumaizer/.gradle/caches/transforms-3/3f36bd1572fc53aee674817c686e759c/transformed/foundation-layout-release/res
+ca.elinium.dishpal.composeApp-foundation-release-8 /Users/mohammadabumaizer/.gradle/caches/transforms-3/44df81c8b7e88dc577a91f568f03c6cb/transformed/foundation-release/res
+ca.elinium.dishpal.composeApp-animation-release-9 /Users/mohammadabumaizer/.gradle/caches/transforms-3/48e3c6df9d73453460568ead94a80dce/transformed/animation-release/res
+ca.elinium.dishpal.composeApp-sqlite-2.4.0-10 /Users/mohammadabumaizer/.gradle/caches/transforms-3/4c9826555315e94ad982fffd8aeb684d/transformed/sqlite-2.4.0/res
+ca.elinium.dishpal.composeApp-runtime-saveable-release-11 /Users/mohammadabumaizer/.gradle/caches/transforms-3/59fc223fa3d9261b154d6126f717d250/transformed/runtime-saveable-release/res
+ca.elinium.dishpal.composeApp-lifecycle-service-2.6.2-12 /Users/mohammadabumaizer/.gradle/caches/transforms-3/5a5d578dd44320ebcac28acf7565baa7/transformed/lifecycle-service-2.6.2/res
+ca.elinium.dishpal.composeApp-runtime-release-13 /Users/mohammadabumaizer/.gradle/caches/transforms-3/63157ca07aa2b4dc3aa2c5a093fd8484/transformed/runtime-release/res
+ca.elinium.dishpal.composeApp-ui-tooling-release-14 /Users/mohammadabumaizer/.gradle/caches/transforms-3/6b144650d95d35609ad6306946f2f483/transformed/ui-tooling-release/res
+ca.elinium.dishpal.composeApp-play-services-base-18.1.0-15 /Users/mohammadabumaizer/.gradle/caches/transforms-3/6ea9d9e7bf6056ba0fec98140ea342e2/transformed/play-services-base-18.1.0/res
+ca.elinium.dishpal.composeApp-ui-release-16 /Users/mohammadabumaizer/.gradle/caches/transforms-3/72655d441e5ba1709e3c545567be7bf0/transformed/ui-release/res
+ca.elinium.dishpal.composeApp-lifecycle-runtime-ktx-2.6.2-17 /Users/mohammadabumaizer/.gradle/caches/transforms-3/7340705ff9fb657c2f5ccd1dcf7d1bef/transformed/lifecycle-runtime-ktx-2.6.2/res
+ca.elinium.dishpal.composeApp-fragment-ktx-1.6.2-18 /Users/mohammadabumaizer/.gradle/caches/transforms-3/74f2f3050094d2c4db21ae86a0ea98bf/transformed/fragment-ktx-1.6.2/res
+ca.elinium.dishpal.composeApp-lifecycle-process-2.6.2-19 /Users/mohammadabumaizer/.gradle/caches/transforms-3/78629d492c867cd82a47fffba07ca836/transformed/lifecycle-process-2.6.2/res
+ca.elinium.dishpal.composeApp-lifecycle-livedata-2.6.2-20 /Users/mohammadabumaizer/.gradle/caches/transforms-3/795d1e0b3038c36b7a84a38884a6a265/transformed/lifecycle-livedata-2.6.2/res
+ca.elinium.dishpal.composeApp-fragment-1.6.2-21 /Users/mohammadabumaizer/.gradle/caches/transforms-3/7b3b2c8d48805b8c1f00f6026deec953/transformed/fragment-1.6.2/res
+ca.elinium.dishpal.composeApp-media-debug-22 /Users/mohammadabumaizer/.gradle/caches/transforms-3/81ea2e2f1a12f89a9680d37889ad9948/transformed/media-debug/res
+ca.elinium.dishpal.composeApp-annotation-experimental-1.4.0-23 /Users/mohammadabumaizer/.gradle/caches/transforms-3/86e20a5e536563b3b056cfa11b11e89e/transformed/annotation-experimental-1.4.0/res
+ca.elinium.dishpal.composeApp-MaterialFilePicker-1.9.1-24 /Users/mohammadabumaizer/.gradle/caches/transforms-3/8786dda90e77e328368333a3792c68fa/transformed/MaterialFilePicker-1.9.1/res
+ca.elinium.dishpal.composeApp-play-services-basement-18.1.0-25 /Users/mohammadabumaizer/.gradle/caches/transforms-3/8c3a950a9f15651ed63ee17d8ed036c8/transformed/play-services-basement-18.1.0/res
+ca.elinium.dishpal.composeApp-sqlite-framework-2.4.0-26 /Users/mohammadabumaizer/.gradle/caches/transforms-3/8cc383275c94044e804b9d80a31d0513/transformed/sqlite-framework-2.4.0/res
+ca.elinium.dishpal.composeApp-lifecycle-viewmodel-2.6.2-27 /Users/mohammadabumaizer/.gradle/caches/transforms-3/98d486814341c5bd432b3b24aa4d4644/transformed/lifecycle-viewmodel-2.6.2/res
+ca.elinium.dishpal.composeApp-ui-text-release-28 /Users/mohammadabumaizer/.gradle/caches/transforms-3/9a5d3acf780455da70124623b55900b2/transformed/ui-text-release/res
+ca.elinium.dishpal.composeApp-lifecycle-livedata-core-ktx-2.6.2-29 /Users/mohammadabumaizer/.gradle/caches/transforms-3/9c312b23f4775bb04c52e5a599a920af/transformed/lifecycle-livedata-core-ktx-2.6.2/res
+ca.elinium.dishpal.composeApp-lifecycle-viewmodel-ktx-2.6.2-30 /Users/mohammadabumaizer/.gradle/caches/transforms-3/9f4213931066a471966c7f80dde95122/transformed/lifecycle-viewmodel-ktx-2.6.2/res
+ca.elinium.dishpal.composeApp-core-runtime-2.2.0-31 /Users/mohammadabumaizer/.gradle/caches/transforms-3/9f4acfb4604c518eadcb3c5e47657b59/transformed/core-runtime-2.2.0/res
+ca.elinium.dishpal.composeApp-animation-core-release-32 /Users/mohammadabumaizer/.gradle/caches/transforms-3/a2a7e6e74e6878cf4f0d8ae087ef225e/transformed/animation-core-release/res
+ca.elinium.dishpal.composeApp-ui-unit-release-33 /Users/mohammadabumaizer/.gradle/caches/transforms-3/a476c15ec49e7e21de196479e9d95c6f/transformed/ui-unit-release/res
+ca.elinium.dishpal.composeApp-ui-geometry-release-34 /Users/mohammadabumaizer/.gradle/caches/transforms-3/a6c9d28460a421e3072b366f08533322/transformed/ui-geometry-release/res
+ca.elinium.dishpal.composeApp-material-ripple-release-35 /Users/mohammadabumaizer/.gradle/caches/transforms-3/c3412bac4ac4c270ba5005e8bbd545f8/transformed/material-ripple-release/res
+ca.elinium.dishpal.composeApp-androidsvg-aar-1.4-36 /Users/mohammadabumaizer/.gradle/caches/transforms-3/c57907b55dae57823b6a6a5c36628a55/transformed/androidsvg-aar-1.4/res
+ca.elinium.dishpal.composeApp-ui-tooling-data-release-37 /Users/mohammadabumaizer/.gradle/caches/transforms-3/c611e51f72e4c61e821d1fa82e69fa39/transformed/ui-tooling-data-release/res
+ca.elinium.dishpal.composeApp-ui-util-release-38 /Users/mohammadabumaizer/.gradle/caches/transforms-3/ccdfd26dff9f6f6b3dfa5fa78885b587/transformed/ui-util-release/res
+ca.elinium.dishpal.composeApp-activity-compose-1.9.0-39 /Users/mohammadabumaizer/.gradle/caches/transforms-3/ceb7d1e57b6908a40c90d74bbc2a0ec8/transformed/activity-compose-1.9.0/res
+ca.elinium.dishpal.composeApp-lifecycle-livedata-core-2.6.2-40 /Users/mohammadabumaizer/.gradle/caches/transforms-3/d09a69abd632f013bc5818db551034b8/transformed/lifecycle-livedata-core-2.6.2/res
+ca.elinium.dishpal.composeApp-appcompat-1.6.1-41 /Users/mohammadabumaizer/.gradle/caches/transforms-3/d3f94efff3caa0edf413c5e965815780/transformed/appcompat-1.6.1/res
+ca.elinium.dishpal.composeApp-recyclerview-1.1.0-42 /Users/mohammadabumaizer/.gradle/caches/transforms-3/d864b4a6ac3946cb3a32371863233c06/transformed/recyclerview-1.1.0/res
+ca.elinium.dishpal.composeApp-savedstate-ktx-1.2.1-43 /Users/mohammadabumaizer/.gradle/caches/transforms-3/dbdd8d54595b70ba15a597301a8076ad/transformed/savedstate-ktx-1.2.1/res
+ca.elinium.dishpal.composeApp-coordinatorlayout-1.1.0-44 /Users/mohammadabumaizer/.gradle/caches/transforms-3/dc69a871301c4711f5c59fc1cc4b3d1c/transformed/coordinatorlayout-1.1.0/res
+ca.elinium.dishpal.composeApp-activity-1.9.0-45 /Users/mohammadabumaizer/.gradle/caches/transforms-3/dd82ea237527d8715b610fb253daa07d/transformed/activity-1.9.0/res
+ca.elinium.dishpal.composeApp-emoji2-views-helper-1.3.0-46 /Users/mohammadabumaizer/.gradle/caches/transforms-3/de3bc66fadba7c0652bd8462cc428645/transformed/emoji2-views-helper-1.3.0/res
+ca.elinium.dishpal.composeApp-material-icons-core-release-47 /Users/mohammadabumaizer/.gradle/caches/transforms-3/e0f2053e7d4f53c9d840fa9ef0ac3337/transformed/material-icons-core-release/res
+ca.elinium.dishpal.composeApp-material-1.1.0-48 /Users/mohammadabumaizer/.gradle/caches/transforms-3/e230deb53b7b520d598bb3993a7bdfb2/transformed/material-1.1.0/res
+ca.elinium.dishpal.composeApp-emoji2-1.3.0-49 /Users/mohammadabumaizer/.gradle/caches/transforms-3/e47b31021ba5fb21a43e2aae001e7f0c/transformed/emoji2-1.3.0/res
+ca.elinium.dishpal.composeApp-ui-tooling-preview-release-50 /Users/mohammadabumaizer/.gradle/caches/transforms-3/e59fe656e6347988a292575caad7ec12/transformed/ui-tooling-preview-release/res
+ca.elinium.dishpal.composeApp-core-1.13.0-51 /Users/mohammadabumaizer/.gradle/caches/transforms-3/e848a89d48683b17f2b171bcb14a3b76/transformed/core-1.13.0/res
+ca.elinium.dishpal.composeApp-customview-poolingcontainer-1.0.0-52 /Users/mohammadabumaizer/.gradle/caches/transforms-3/eddd14c4b2bdb85513d5ec2c6ceeaf1f/transformed/customview-poolingcontainer-1.0.0/res
+ca.elinium.dishpal.composeApp-startup-runtime-1.1.1-53 /Users/mohammadabumaizer/.gradle/caches/transforms-3/f51c71168af17e5fbdec05e2e4bbb237/transformed/startup-runtime-1.1.1/res
+ca.elinium.dishpal.composeApp-ui-graphics-release-54 /Users/mohammadabumaizer/.gradle/caches/transforms-3/f5a4d5eb7eab2c7c59582ef0193e37bc/transformed/ui-graphics-release/res
+ca.elinium.dishpal.composeApp-profileinstaller-1.3.1-55 /Users/mohammadabumaizer/.gradle/caches/transforms-3/f9fbfb226f3094379e1d820a1a47b705/transformed/profileinstaller-1.3.1/res
+ca.elinium.dishpal.composeApp-core-ktx-1.13.0-56 /Users/mohammadabumaizer/.gradle/caches/transforms-3/fb3ba19eea802dd77594478d2ab55089/transformed/core-ktx-1.13.0/res
+ca.elinium.dishpal.composeApp-lifecycle-viewmodel-savedstate-2.6.2-57 /Users/mohammadabumaizer/.gradle/caches/transforms-3/fca32c87da038e1f997b60c44100e6a3/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+ca.elinium.dishpal.composeApp-appcompat-resources-1.6.1-58 /Users/mohammadabumaizer/.gradle/caches/transforms-3/fedb8eeeb85c220cf55f4701586174ee/transformed/appcompat-resources-1.6.1/res
+ca.elinium.dishpal.composeApp-pngs-59 /Users/mohammadabumaizer/Downloads/DishPal Source Code/composeApp/build/generated/res/pngs/debug
+ca.elinium.dishpal.composeApp-resValues-60 /Users/mohammadabumaizer/Downloads/DishPal Source Code/composeApp/build/generated/res/resValues/debug
+ca.elinium.dishpal.composeApp-packageDebugResources-61 /Users/mohammadabumaizer/Downloads/DishPal Source Code/composeApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+ca.elinium.dishpal.composeApp-packageDebugResources-62 /Users/mohammadabumaizer/Downloads/DishPal Source Code/composeApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+ca.elinium.dishpal.composeApp-debug-63 /Users/mohammadabumaizer/Downloads/DishPal Source Code/composeApp/build/intermediates/merged_res/debug/mergeDebugResources
+ca.elinium.dishpal.composeApp-androidMain-64 /Users/mohammadabumaizer/Downloads/DishPal Source Code/composeApp/src/androidMain/res
+ca.elinium.dishpal.composeApp-debug-65 /Users/mohammadabumaizer/Downloads/DishPal Source Code/composeApp/src/debug/res
+ca.elinium.dishpal.composeApp-main-66 /Users/mohammadabumaizer/Downloads/DishPal Source Code/composeApp/src/main/res

@@ -1,0 +1,153 @@
+{
+  "projectStructure": {
+    "formatVersion": "0.3.3",
+    "isPublishedAsRoot": "true",
+    "variants": [
+      {
+        "name": "iosArm64ApiElements",
+        "sourceSet": [
+          "iosMain",
+          "appleMain",
+          "nativeMain",
+          "commonMain"
+        ]
+      },
+      {
+        "name": "iosSimulatorArm64ApiElements",
+        "sourceSet": [
+          "iosMain",
+          "appleMain",
+          "nativeMain",
+          "commonMain"
+        ]
+      },
+      {
+        "name": "iosX64ApiElements",
+        "sourceSet": [
+          "iosMain",
+          "appleMain",
+          "nativeMain",
+          "commonMain"
+        ]
+      }
+    ],
+    "sourceSets": [
+      {
+        "name": "appleMain",
+        "dependsOn": [
+          "nativeMain"
+        ],
+        "moduleDependency": [
+          "app.cash.sqldelight:runtime",
+          "org.jetbrains.kotlin:kotlin-stdlib",
+          "org.jetbrains.compose.runtime:runtime",
+          "org.jetbrains.compose.foundation:foundation",
+          "org.jetbrains.compose.material:material",
+          "org.jetbrains.compose.ui:ui",
+          "org.jetbrains.compose.components:components-resources",
+          "org.jetbrains.compose.components:components-ui-tooling-preview",
+          "media.kamel:kamel-image",
+          "org.jetbrains.kotlinx:kotlinx-serialization-json",
+          "dev.icerock.moko:permissions",
+          "dev.icerock.moko:permissions-compose",
+          "org.jetbrains.kotlinx:kotlinx-datetime",
+          "dev.icerock.moko:media",
+          "dev.icerock.moko:media-compose",
+          "com.darkrockstudios:mpfilepicker",
+          "app.cash.sqldelight:coroutines-extensions",
+          "io.ktor:ktor-client-content-negotiation",
+          "io.ktor:ktor-client-auth",
+          "io.ktor:ktor-client-core",
+          "io.ktor:ktor-serialization-kotlinx-json",
+          "io.insert-koin:koin-core",
+          "io.insert-koin:koin-compose",
+          "dev.icerock.moko:geo-compose"
+        ],
+        "sourceSetCInteropMetadataDirectory": "appleMain-cinterop",
+        "binaryLayout": "klib",
+        "hostSpecific": "true"
+      },
+      {
+        "name": "commonMain",
+        "dependsOn": [],
+        "moduleDependency": [
+          "app.cash.sqldelight:runtime",
+          "org.jetbrains.kotlin:kotlin-stdlib"
+        ],
+        "binaryLayout": "klib"
+      },
+      {
+        "name": "iosMain",
+        "dependsOn": [
+          "appleMain"
+        ],
+        "moduleDependency": [
+          "app.cash.sqldelight:runtime",
+          "org.jetbrains.kotlin:kotlin-stdlib",
+          "org.jetbrains.compose.runtime:runtime",
+          "org.jetbrains.compose.foundation:foundation",
+          "org.jetbrains.compose.material:material",
+          "org.jetbrains.compose.ui:ui",
+          "org.jetbrains.compose.components:components-resources",
+          "org.jetbrains.compose.components:components-ui-tooling-preview",
+          "media.kamel:kamel-image",
+          "org.jetbrains.kotlinx:kotlinx-serialization-json",
+          "dev.icerock.moko:permissions",
+          "dev.icerock.moko:permissions-compose",
+          "org.jetbrains.kotlinx:kotlinx-datetime",
+          "dev.icerock.moko:media",
+          "dev.icerock.moko:media-compose",
+          "com.darkrockstudios:mpfilepicker",
+          "app.cash.sqldelight:coroutines-extensions",
+          "io.ktor:ktor-client-content-negotiation",
+          "io.ktor:ktor-client-auth",
+          "io.ktor:ktor-client-core",
+          "io.ktor:ktor-serialization-kotlinx-json",
+          "io.insert-koin:koin-core",
+          "io.insert-koin:koin-compose",
+          "dev.icerock.moko:geo-compose",
+          "io.ktor:ktor-client-darwin",
+          "app.cash.sqldelight:native-driver"
+        ],
+        "sourceSetCInteropMetadataDirectory": "iosMain-cinterop",
+        "binaryLayout": "klib",
+        "hostSpecific": "true"
+      },
+      {
+        "name": "nativeMain",
+        "dependsOn": [
+          "commonMain"
+        ],
+        "moduleDependency": [
+          "app.cash.sqldelight:runtime",
+          "org.jetbrains.kotlin:kotlin-stdlib",
+          "org.jetbrains.compose.runtime:runtime",
+          "org.jetbrains.compose.foundation:foundation",
+          "org.jetbrains.compose.material:material",
+          "org.jetbrains.compose.ui:ui",
+          "org.jetbrains.compose.components:components-resources",
+          "org.jetbrains.compose.components:components-ui-tooling-preview",
+          "media.kamel:kamel-image",
+          "org.jetbrains.kotlinx:kotlinx-serialization-json",
+          "dev.icerock.moko:permissions",
+          "dev.icerock.moko:permissions-compose",
+          "org.jetbrains.kotlinx:kotlinx-datetime",
+          "dev.icerock.moko:media",
+          "dev.icerock.moko:media-compose",
+          "com.darkrockstudios:mpfilepicker",
+          "app.cash.sqldelight:coroutines-extensions",
+          "io.ktor:ktor-client-content-negotiation",
+          "io.ktor:ktor-client-auth",
+          "io.ktor:ktor-client-core",
+          "io.ktor:ktor-serialization-kotlinx-json",
+          "io.insert-koin:koin-core",
+          "io.insert-koin:koin-compose",
+          "dev.icerock.moko:geo-compose"
+        ],
+        "sourceSetCInteropMetadataDirectory": "nativeMain-cinterop",
+        "binaryLayout": "klib",
+        "hostSpecific": "true"
+      }
+    ]
+  }
+}

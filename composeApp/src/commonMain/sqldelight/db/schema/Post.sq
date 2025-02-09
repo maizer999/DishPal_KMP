@@ -1,0 +1,51 @@
+CREATE TABLE Post (
+    id INTEGER,
+    localId INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT ,
+    createdByUserId INTEGER NOT NULL,
+    dishImageUrl TEXT,
+    dishName TEXT NOT NULL,
+    dishType TEXT,
+    dishDescription TEXT NOT NULL,
+    recipe TEXT NOT NULL,
+    isLiked INTEGER NOT NULL DEFAULT 0,
+    isDishPal INTEGER NOT NULL DEFAULT 0
+);
+
+insertPost:
+INSERT INTO Post (
+    id,
+    localId,
+    createdByUserId,
+    dishImageUrl,
+    dishName,
+    dishType,
+    dishDescription,
+    recipe,
+    isLiked,
+    isDishPal
+) VALUES (?, ?,  ?, ?, ?, ?, ?, ?, ?, ?);
+
+updatePost:
+UPDATE Post
+SET
+    createdByUserId = ?,
+    dishImageUrl = ?,
+    dishName = ?,
+    dishType = ?,
+    dishDescription = ?,
+    recipe = ?,
+    isLiked = ?,
+    isDishPal = ?
+WHERE id = ?;
+
+selectAllPosts:
+SELECT * FROM Post;
+
+selectPost:
+SELECT * FROM Post WHERE id = ?;
+
+removePost:
+DELETE FROM Post WHERE id = ?;
+
+removeAllPosts:
+DELETE FROM Post;

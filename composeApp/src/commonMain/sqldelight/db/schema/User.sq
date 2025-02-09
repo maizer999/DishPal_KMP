@@ -1,0 +1,37 @@
+CREATE TABLE User (
+    id INTEGER NOT NULL PRIMARY KEY,
+    rate REAL, -- Corresponds to Float in Kotlin and can be NULL
+    rateCount INTEGER, -- Corresponds to Int in Kotlin and can be NULL
+    userInitials TEXT NOT NULL,
+    userAvatarUrl TEXT, -- Can be NULL
+    fullName TEXT NOT NULL
+);
+
+insertUser:
+INSERT INTO User (
+    id,
+    rate,
+    rateCount,
+    userInitials,
+    userAvatarUrl,
+    fullName
+) VALUES (?, ?, ?, ?, ?, ?);
+
+updateUser:
+UPDATE User
+SET
+    rate = ?,
+    rateCount = ?,
+    userInitials = ?,
+    userAvatarUrl = ?,
+    fullName = ?
+WHERE id = ?;
+
+selectUserById:
+SELECT * FROM User WHERE id = ?;
+
+selectAllUsers:
+SELECT * FROM User;
+
+removeAllUsers:
+DELETE FROM User;

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">DishPal</string>
+    <string name="title">Some title</string>
+    <string name="set_location">Get results near you</string>
+    <string name="your_group_of_friends">Add Group of Friends</string>
+    <string name="home">Home</string>
+    <string name="chats">Chats</string>
+    <string name="profile">Profile</string>
+    <string name="post">Post</string>
+    <string name="done_by">Done by:</string>
+    <string name="next">Next</string>
+    <string name="description">Description:</string>
+    <string name="add_to_dishpals">Add %1$s to your DishPals</string>
+    <string name="ask_to_swap">Ask %1$s to Swap Dishes</string>
+    <string name="ask_to_swap">Ask %1$s to Swap Dishes</string>
+    <string name="add_your_meal">Add Your Meal</string>
+    <string name="name">Name of your Meal</string>
+    <string name="desc">Description (Ingredient, Recipe, etc.)</string>
+    <string name="onboard1_title">Find or add your Friends as DishPals.</string>
+    <string name="onboard1_subtitle">Search among the available dishes every day.</string>
+    <string name="onboard2_title">Set where you want to exchange your meal</string>
+    <string name="onboard2_subtitle">Select a location near your work place or place of your convenience.</string>
+    <string name="onboard3_title">Meet and Swap</string>
+    <string name="onboard3_subtitle">You can also meet to return the containers after</string>
+    <string name="unknown_user">Unknown User</string>
+    <string name="add_profile">Add Profile</string>
+    <string name="save">Save</string>
+</resources>

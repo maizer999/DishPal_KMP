@@ -1,0 +1,78 @@
+[versions]
+agp = "8.3.2"
+
+android-compileSdk = "34"
+android-minSdk = "24"
+android-targetSdk = "34"
+androidx-activityCompose = "1.9.0"
+androidx-appcompat = "1.6.1"
+androidx-constraintlayout = "2.1.4"
+androidx-core-ktx = "1.12.0"
+androidx-espresso-core = "3.5.1"
+androidx-material = "1.11.0"
+androidx-test-junit = "1.1.5"
+geoCompose = "0.6.0"
+kotlinxSerializationJson = "1.6.1"
+
+compose = "1.6.6"
+compose-plugin = "1.6.1"
+junit = "4.13.2"
+kotlin = "1.9.23"
+kamel-image = "0.9.3"
+ktor = "2.3.10"
+material3 = "1.2.1"
+permissions = "0.17.0"
+fragmentKtx = "1.6.2"
+ktxDateTime = "0.4.1"
+mokoMedia = "0.11.0"
+mediaFilePicker = "3.1.0"
+sqlDelight = "2.0.2"
+koin = "3.4.3"
+koin-compose = "1.0.4"
+
+[libraries]
+geo-compose = { module = "dev.icerock.moko:geo-compose", version.ref = "geoCompose" }
+
+ktor-client-core = { module = "io.ktor:ktor-client-core", version.ref = "ktor" }
+ktor-client-auth= {module ="io.ktor:ktor-client-auth", version.ref = "ktor"}
+ktor-client-okhttp = { module = "io.ktor:ktor-client-okhttp", version.ref = "ktor" }
+ktor-serialization = {module = "io.ktor:ktor-serialization-kotlinx-json", version.ref= "ktor"}
+ktor-client-content-negotiation = {module = "io.ktor:ktor-client-content-negotiation", version.ref= "ktor"}
+
+ktor-client-android = { module = "io.ktor:ktor-client-android", version.ref = "ktor" }
+ktor-client-darwin = { module = "io.ktor:ktor-client-darwin", version.ref = "ktor" }
+
+ktx-datetime = { group = "org.jetbrains.kotlinx", name = "kotlinx-datetime", version.ref = "ktxDateTime" }
+
+kamel-image = { module = "media.kamel:kamel-image", version.ref = "kamel-image" }
+kotlinx-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json", version.ref = "kotlinxSerializationJson" }
+
+androidx-activity-compose = { module = "androidx.activity:activity-compose", version.ref = "androidx-activityCompose" }
+compose-ui-tooling = { module = "androidx.compose.ui:ui-tooling", version.ref = "compose" }
+compose-ui-tooling-preview = { module = "androidx.compose.ui:ui-tooling-preview", version.ref = "compose" }
+
+moko-permissions-compose = { module = "dev.icerock.moko:permissions-compose", version.ref = "permissions" }
+moko-permissions = { module = "dev.icerock.moko:permissions", version.ref = "permissions" }
+moko-media = { group = "dev.icerock.moko", name = "media", version.ref = "mokoMedia" }
+moko-media-compose = { group = "dev.icerock.moko", name = "media-compose", version.ref = "mokoMedia" }
+
+androidx-fragment-ktx = { group = "androidx.fragment", name = "fragment-ktx", version.ref = "fragmentKtx" }
+media-filePicker = { group = "com.darkrockstudios", name = "mpfilepicker", version.ref = "mediaFilePicker" }
+
+koin-android = { module = "io.insert-koin:koin-android", version.ref = "koin" }
+koin-core = { module = "io.insert-koin:koin-core", version.ref = "koin" }
+koin-compose = { module = "io.insert-koin:koin-compose", version.ref = "koin-compose"}
+
+sqldelight-androidDriver = { module = "app.cash.sqldelight:android-driver", version.ref = "sqlDelight" }
+sqldelight-nativeDriver = { module = "app.cash.sqldelight:native-driver", version.ref = "sqlDelight" }
+sqldelight-coroutines = { module = "app.cash.sqldelight:coroutines-extensions", version.ref = "sqlDelight" }
+
+[bundles]
+ktor = ["ktor-client-core", "ktor-client-content-negotiation"]
+
+[plugins]
+androidApplication = { id = "com.android.application", version.ref = "agp" }
+androidLibrary = { id = "com.android.library", version.ref = "agp" }
+jetbrainsCompose = { id = "org.jetbrains.compose", version.ref = "compose-plugin" }
+kotlinMultiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
+sqlDelight = { id = "app.cash.sqldelight", version.ref = "sqlDelight" }
