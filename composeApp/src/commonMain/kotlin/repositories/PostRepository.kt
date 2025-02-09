@@ -7,10 +7,10 @@ import io.ktor.client.request.get
 
 class PostRepository(private val httpClient: HttpClient) {
     suspend fun getAll(): List<Post> {
-        return httpClient.get("https://run.mocky.io/v3/f0b64475-c9c7-4579-a7f1-dcd16b97b947").body()
+        return httpClient.get("https://run.mocky.io/v3/97d2e461-0307-4dd3-a41c-52ce0b743a1f").body()
     }
 
     suspend fun get(id: Long) : Post {
-        return httpClient.get("https://run.mocky.io/v3/f0b64475-c9c7-4579-a7f1-dcd16b97b947").body()
+        return httpClient.get("https://run.mocky.io/v3/97d2e461-0307-4dd3-a41c-52ce0b743a1f").body()
     }
 }
